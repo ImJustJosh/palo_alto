@@ -1,0 +1,8 @@
+{
+  "domain": "palo_alto",
+  "name": "Palo Alto",
+  "documentation": "https://www.home-assistant.io/integrations/",
+  "requirements": ["pexpect==4.6.0"],
+  "codeowners": ["@josh_koll"],
+  "iot_class": "local_polling"
+}
